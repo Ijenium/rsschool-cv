@@ -5,6 +5,7 @@
 * Telegram: https://t.me/ijenium
 
 ### Briefly About Myself:
+* in progress...
 
 ### Skills and Proficiency:
 * JavaScript
