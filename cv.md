@@ -22,3 +22,11 @@ function multiply(a, b){
   return a * b;
 };
 ```
+
+### Education
+* Ural Federal University named after the First President of Russia B. N. Yeltsin
+  * Engineer, Information Systems and Technologies
+
+### Languages:
+* English: Pre-Intermediate
+* Russian: Native
