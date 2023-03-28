@@ -5,7 +5,8 @@
 * Telegram: https://t.me/ijenium
 
 ### Briefly About Myself:
-* in progress...
+My main profession is IT Integration Engineer.
+Programming is another extra world that will allow me to expand my skills.
 
 ### Skills and Proficiency:
 * JavaScript
